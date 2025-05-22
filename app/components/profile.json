@@ -1,0 +1,16 @@
+{
+  "name": "Nitin Goley",
+  "bio": "MERN Stack Developer with strong interest in full-stack apps.",
+  "contact": {
+    "email": "nitingoley42@gmail.com"
+  },
+  "education": [
+    {
+      "degree": "BTech in Computer Science",
+      "institution": "Invertis University",
+      "year": "2021-2025"
+    }
+  ],
+  "skills": ["JavaScript", "React", "Node.js", "MongoDB"],
+  "certifications": ["HackerRank SQL", "TCS iON Soft Skills", "Cisco JavaScript"]
+}
